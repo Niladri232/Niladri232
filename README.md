@@ -33,10 +33,12 @@ deployment.
 
 ### 🤖 Agentic RAG FinOps Auditor with Local LLMs
 
-Langgraph, Langchain, ChromaDB, Real Time anomaly detection for SaaS 
-procurements ensuring Data Privacy
+Langgraph, Langchain, ChromaDB, Pydantic, Real Time anomaly detection for 
+SaaS procurements ensuring Data Privacy
 
+**Focus:** Agentic RAG · Local LLM Execution · Vector Databse 
 
+---
 
 ### 🤖 Automated Invoice Matching & Anomaly Detection
 
@@ -63,7 +65,7 @@ automated browser.
 **Focus:** Reinforcement Learning · DQN · Transfer learning across dynamic
 GUI & browser.
 
-
+---
 ### 💳 Distributed Fraud Detection
 
 Distributed machine learning pipeline for fraud detection using Apache Spark
