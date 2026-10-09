@@ -31,6 +31,13 @@ deployment.
 
 ## 🚀 Selected Projects
 
+### 🤖 Agentic RAG FinOps Auditor with Local LLMs
+
+Langgraph, Langchain, ChromaDB, Real Time anomaly detection for SaaS 
+procurements ensuring Data Privacy
+
+
+
 ### 🤖 Automated Invoice Matching & Anomaly Detection
 
 Multimodal deep learning framework for automated financial document matching,
@@ -48,16 +55,14 @@ Deep Q-Learning in a grid-based environment.
 **Focus:** Reinforcement Learning · DQN · Robotics · PyTorch
 
 ---
+### 💳 RL Based GUI Testing & Web Automation Agent
 
-### 🧠 Domain-Independent EFSM → Code Conformance
+Reinforcement Learning system for simulated grid-world model and real
+automated browser.
 
-LLM-assisted requirements engineering pipeline that transforms natural-language
-requirements into Extended Finite State Machines and validates implementations
-against the resulting formal model.
+**Focus:** Reinforcement Learning · DQN · Transfer learning across dynamic
+GUI & browser.
 
-**Focus:** LLMs · Requirements Engineering · EFSM · Formal Verification
-
----
 
 ### 💳 Distributed Fraud Detection
 
@@ -74,6 +79,15 @@ End-to-end image classification pipeline involving feature extraction,
 wavelet-based representations, dimensionality reduction and classical ML.
 
 **Focus:** Computer Vision · Feature Engineering · Machine Learning
+
+---
+### 🧠 Domain-Independent EFSM → Code Conformance
+
+LLM-assisted requirements engineering pipeline that transforms natural-language
+requirements into Extended Finite State Machines and validates implementations
+against the resulting formal model.
+
+**Focus:** LLMs · Requirements Engineering · EFSM · Formal Verification
 
 ---
 
